@@ -2,6 +2,8 @@
 
 Welcome! This is an interactive number guessing game built in Scratch for **CSSI S-7** at Harvard Extension Summer School.
 
+▶️ [ Play the game on Scratch (1–10 version) ] (https://scratch.mit.edu/projects/1189420241)
+
 ---
 
 ## ✨ Project Details
