@@ -20,7 +20,7 @@ Welcome! This is an interactive number guessing game built in Scratch for **CSSI
 ## 🪩 Bonus Surprise
 
 You're a super star!  
-Use code `ZyCodes` at checkout on [luxiriesarchv.com](https://luxiriesarchv.com) for a special discount ✨
+Use code `ZyCodes` at checkout on [luxiriesarchv.com](https://luxiriesarchv.sqaurespace.com) for a special discount ✨
 
 ---
 
