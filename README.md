@@ -34,7 +34,10 @@ Use code `ZyCodes` at checkout on [luxiriesarchv.com](https://luxiriesarchv.com)
 
 ## 📁 Files
 
-- `guess-the-number.sb3` – Full Scratch game file (download and open in Scratch)
+
+- `guess-the-number-1-10.sb3` – Basic version with a number between 1 and 10
+- `guess-the-number-1-100.sb3` – Final version with number between 1 and 100, includes confetti, replay, and promo message
+
 
 ---
 
