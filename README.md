@@ -1,5 +1,6 @@
 # 🎮 Guess the Number - Scratch Game
 
+
 Welcome! This is an interactive number guessing game built in Scratch for **CSSI S-7** at Harvard Extension Summer School.
 
 ▶️ [ Play the game on Scratch (1–10 version) ] (https://scratch.mit.edu/projects/1189420241)
@@ -22,7 +23,7 @@ Welcome! This is an interactive number guessing game built in Scratch for **CSSI
 ## 🪩 Bonus Surprise
 
 You're a super star!  
-Use code `ZyCodes` at checkout on [luxiriesarchv.com](https://luxiriesarchv.com) for a special discount ✨
+Use your code at checkout on [luxiriesarchv.com](https://luxiriesarchv.com) for a special discount ✨
 
 ---
 
