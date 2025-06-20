@@ -1,3 +1,7 @@
+### 💻 Run in Python:
+```bash
+python3 zyra_game.py
+
 # 🎮 Guess the Number - Scratch Game
 
 
